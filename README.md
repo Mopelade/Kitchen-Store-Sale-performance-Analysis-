@@ -64,7 +64,8 @@ Based on the Analysis, Customers use the In store sales customers more than they
 
 
 ## Recommedation 
-
+* Texas, California, Colorado and New york should be the main targets for online campaign, as they are the state that generated. This is prolly attribted to the fact that they are the top-populated states
+* I would advice that the company should Invest more on ads to trigger and improve more sales online 
 
 
 
