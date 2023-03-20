@@ -20,7 +20,7 @@ The datasets has 2,615 rows and the following column attributes:
 * To summary the sales of each of the products for 2022 only.
 * what are the 10 most and less products by revenue and quality?
 * What are the 10 most and less state By Revenue per and Quality ?
-* Are buyers making purchases Online more than In Store and 
+* which sales channel do customers use the most? Online or In store
 
 
 ## The processes I took in other to provide answers to the above questions are:
