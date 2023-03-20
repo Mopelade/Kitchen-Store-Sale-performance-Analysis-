@@ -39,6 +39,10 @@ The datasets has 2,615 rows and the following column attributes:
 
 ![](KitchenProject/Kitchendas.PNG)
 
+## Business Problem 2 - what are the 10 most and less products by revenue and quality?
+
+
+
 
 
 
