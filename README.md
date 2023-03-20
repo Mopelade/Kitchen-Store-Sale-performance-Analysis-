@@ -39,7 +39,23 @@ The datasets has 2,615 rows and the following column attributes:
 
 ![](KitchenProject/Kitchendas.PNG)
 
-## Business Problem 2 - what are the 10 most and less products by revenue and quality?
+## Business Problem 2 - what is the  most and least product by revenue and quality?
+
+![](KitchenProject/top10revenue.PNG)
+
+According to my analysis, The best selling Kitchen Utensil is Teapot as it generated ($6,632,745) a total Percentage of 15.89, while the least selling product is Dishwasher whuch generated a sum of ($2,657,607), a total percentage of 6.36%. 
+
+![](KitchenProject/productquality.PNG)
+
+Product By Quality Analysis - The product with the most Orders is Teapot, The company sold about 4,651,820 with a total percentage of 31.72%. The least ordered product is Blender, About 195,973 a total percentage of 1.34%. However Blender performed very well as it generated about $4,780,144 with a total percentage of 11.43%. It is part of the top 5 product by revenue .
+
+
+
+
+
+
+
+
 
 
 
