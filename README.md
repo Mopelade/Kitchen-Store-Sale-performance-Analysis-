@@ -59,6 +59,13 @@ The total revenue generated in 2022 is $41,813,400, Texas has the highest amount
 
 ![](KitchenProject/SalesChannel.PNG)
 
+Based on the Analysis, Customers use the In store sales customers more than they use online. Out of the $41,813,400 generated in 2022, $23,601,941 came from In store sales Channel, a percentage of 56.45%. WHile the company made $18,211,459 from the online sales Channel, a total rate of 43.55%. Lower than in store sales channel by 5.5 Million dollars.
+
+
+
+## Recommedation 
+
+
 
 
 
