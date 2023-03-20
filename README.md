@@ -29,11 +29,16 @@ The datasets has 2,615 rows and the following column attributes:
 * Visualized my reports via charts.
 * Designed my dashboard with the reports and most important metrics.
 
+# Exploratory Data Analysis.
+
 ## Excel Interactive Dashboard Created for the Analysis
+
+### Business Problem 1 :  Summary the sales of each of the products for 2022 only.
 
 ## Kindly Click on issues to have an Idea on how each of the products  were analysed and visualized.
 
 ![](KitchenProject/Kitchendas.PNG)
+
 
 
 
