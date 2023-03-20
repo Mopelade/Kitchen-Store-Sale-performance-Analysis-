@@ -4,7 +4,7 @@
 
 Sales Performance Analysis provides several significant advantages to businesses and this includes identifying areas for improvement, tracking progress, as well as increasing revenue. As the Business Intelligent Analyst, I was directed by the founder of Kicthen Store, a fictitious manufacturing company to analyze the sales for 2022. She wants to keep an eye on her business' performace interally.
 
-The company is a luxurous company that sells kicthen Equipment which includes Dishwater, Frying Pan, Toaster E.t.c.
+The company is a luxurious company that sells kitchen Equipment which includes Dishwater, Frying Pan, Toaster Etc.
 I would be working with the founder using Excel to perform data exploration, uncover metrics and create an interactive dashboard tp would stories about the buisness 2022 sale perfomance.
 
 The datasets has 2,615 rows and the following column attributes:
